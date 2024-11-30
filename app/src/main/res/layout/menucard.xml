@@ -18,7 +18,7 @@
             app:layout_constraintHorizontal_bias="0.05"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/grocery" />
+            app:srcCompat="@drawable/baseline_category_24" />
 
         <TextView
             android:id="@+id/tv_nombreproducto"
